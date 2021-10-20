@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vartika2022
-- 👀 I’m interested in Web Development in MERN stack
-- 🌱 I’m currently exploring Machine Learning.
+- 👀 I’m interested in Web Development in MERN stack.
 - 💞️ I’m looking to collaborate on projects involving MERN stack.
 - 📫 How to reach me ?? Email me at vartika.singh2022@gmail.com || LinkedIn: https://www.linkedin.com/in/vartika-singh-tu/
 
